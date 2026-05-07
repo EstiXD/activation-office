@@ -1,0 +1,56 @@
+winget.exe : Ya se ha especificado el par metro command.
+En l¡nea: 1 Car cter: 365
++ ...   $result = winget list --name "$a" --exact     if ($LASTEXITCODE -eq ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [], ParameterBindingException
+    + FullyQualifiedErrorId : ParameterSpecifiedAlready
+ 
+winget.exe : Ya se ha especificado el par metro command.
+En l¡nea: 1 Car cter: 365
++ ...   $result = winget list --name "$a" --exact     if ($LASTEXITCODE -eq ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [], ParameterBindingException
+    + FullyQualifiedErrorId : ParameterSpecifiedAlready
+ 
+winget.exe : Ya se ha especificado el par metro command.
+En l¡nea: 1 Car cter: 365
++ ...   $result = winget list --name "$a" --exact     if ($LASTEXITCODE -eq ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [], ParameterBindingException
+    + FullyQualifiedErrorId : ParameterSpecifiedAlready
+ 
+winget.exe : Ya se ha especificado el par metro command.
+En l¡nea: 1 Car cter: 365
++ ...   $result = winget list --name "$a" --exact     if ($LASTEXITCODE -eq ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [], ParameterBindingException
+    + FullyQualifiedErrorId : ParameterSpecifiedAlready
+ 
+winget.exe : Ya se ha especificado el par metro command.
+En l¡nea: 1 Car cter: 365
++ ...   $result = winget list --name "$a" --exact     if ($LASTEXITCODE -eq ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [], ParameterBindingException
+    + FullyQualifiedErrorId : ParameterSpecifiedAlready
+ 
+winget.exe : Ya se ha especificado el par metro command.
+En l¡nea: 1 Car cter: 365
++ ...   $result = winget list --name "$a" --exact     if ($LASTEXITCODE -eq ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [], ParameterBindingException
+    + FullyQualifiedErrorId : ParameterSpecifiedAlready
+ 
+winget.exe : Ya se ha especificado el par metro command.
+En l¡nea: 1 Car cter: 365
++ ...   $result = winget list --name "$a" --exact     if ($LASTEXITCODE -eq ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [], ParameterBindingException
+    + FullyQualifiedErrorId : ParameterSpecifiedAlready
+ 
+winget.exe : Ya se ha especificado el par metro command.
+En l¡nea: 1 Car cter: 365
++ ...   $result = winget list --name "$a" --exact     if ($LASTEXITCODE -eq ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [], ParameterBindingException
+    + FullyQualifiedErrorId : ParameterSpecifiedAlready
+ 
